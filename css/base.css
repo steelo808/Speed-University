@@ -967,6 +967,7 @@ body .scroll-to-top:after{
 .placeholder-logo{
     color:#ffff;
     text-transform: uppercase;
+    font-size:1.2rem;
 }
 
 .placeholder-logo span{
