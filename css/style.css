@@ -19,6 +19,10 @@
 /*----------------------------------------*/
 /*  00 - Home
 /*----------------------------------------*/
+
+.our-mission{
+    color:#fff;
+}
 .ml-auto, .mx-auto {
     margin-left: auto!important;
 }
@@ -31,7 +35,7 @@
 }
 .about-one-img{
 	height: 100%;
-	background-image: url(../images/homepage-1/img-01.jpg);
+	background-image: url(/revolution/images/bg1-su.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,7 +78,7 @@
 	width: 285%;
 	height: 100%;
 	display: block;
-	background-image: url(../images/homepage-1/bg/img-01.jpg);
+	background-image: url(/revolution/images/bg1-su.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1796,3 +1800,5 @@ input:focus, .form-control:focus {
     border-color:var(--pbmit-global-color);
     box-shadow: none !important;
 }
+
+
